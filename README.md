@@ -1,1 +1,1 @@
-# automatic
+# flask-mysql-auth-system
